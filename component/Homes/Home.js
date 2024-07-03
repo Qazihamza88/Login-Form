@@ -64,7 +64,7 @@ const Home = () => {
       </div>
       {/* Card */}
       {/* <div className="row"> */}
-          <div className="card" style={{width:"876px",height:"215px",borderRadius:"15px" ,position:"absolute",right:"715px",top:"430px",backgroundColor:"#f7f6f5"}}>
+          <div className="card" style={{width:"860px",height:"215px",borderRadius:"15px" ,position:"absolute",right:"420px",top:"410px",backgroundColor:"#f7f6f5"}}>
             <div className="card-body">
               <div style={{ display: "flex", alignItems: "center" }}>
              <div>
